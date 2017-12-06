@@ -1,0 +1,41 @@
+description: "Gonellabah Tavern"
+publisher: "G'bah Tavern"
+keywords: "Tavern, Hotel, Pub, Goonellabah, beer, wine, spirits, games, lunch, dinner, stylish, fun, friendly"
+title: "Gonellabah Tavern"
+
+biz_name: "Gonellabah Tavern"
+biz_slog: ""
+
+biz_addr_1: "747 Bruxner Highway"
+biz_addr_2:
+biz_addr_city: "Goonellabah"
+biz_addr_state: "NSW"
+biz_addr_code: "2480"
+
+biz_map: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6991.660302077451!2d153.336674!3d-28.814135000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6111b597d9be366a!2sGoonellabah+Tavern!5e0!3m2!1sen!2sau!4v1512117586320" width="3000" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+biz_map_url: "https://www.google.com/maps/place/Goonellabah+Tavern/@-28.814135,153.336674,16z/data=!4m5!3m4!1s0x0:0x6111b597d9be366a!8m2!3d-28.8141348!4d153.3388625?hl=en-US"
+
+biz_post_box:
+biz_post_city:
+biz_post_state:
+biz_post_code:
+
+biz_phone: "02 6625 1290"
+biz_phone_bistro: "02 6625 1291"
+biz_fax:
+biz_email: "staff@gbahtavern.com.au"
+
+biz_abn: "48 621 781 539"
+
+pop-img:
+
+url: "//www.gbahtavern.com.au"
+cdn: "//cdn.gbahtavern.com.au"
+
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/:num/"
+
+gems:
+  - jekyll-redirect-from
