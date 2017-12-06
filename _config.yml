@@ -30,7 +30,7 @@ biz_abn: "48 621 781 539"
 pop-img:
 
 url: "//www.gbahtavern.com.au"
-cdn: "//cdn.gbahtavern.com.au"
+cdn: "http://cdn.gbahtavern.com.au"
 
 permalink: pretty
 
