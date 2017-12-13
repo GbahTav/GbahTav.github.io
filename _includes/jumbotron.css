@@ -18,4 +18,4 @@
   transform: translateY(-25%);
 }
 .jumbotron h1 {font-family: 'Permanent Marker', cursive; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); }
-.jumbotron p {font-family: 'Rock Salt', cursive; }
+.jumbotron icon {font-size: 6em; }
