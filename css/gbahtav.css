@@ -3,9 +3,6 @@
 .navbar-default { margin-bottom: 0px; }
 .navbar .icon-logo { height: 3em; width: 6em; }
 .styled { font-family: 'Rock Salt', cursive; }
-@media (min-width: 768px) {
-.styled { margin: 14px 15px; }
-}
 h1, .jumbotron h1 { color:#CC6633; }
 #content p { margin: 1em; line-height: 1.6em; }
 #content p + ul { margin-top: -1em; }
