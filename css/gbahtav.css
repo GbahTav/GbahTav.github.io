@@ -1,7 +1,7 @@
 ---
 ---
 .navbar-default { margin-bottom: 0px; }
-.navbar .icon-logo {display: table-cell; vertical-align: top; padding: 0; height: 100%; width: 4em; }
+.navbar .icon-logo {padding: 0; height: 100%; width: 4em; }
 .styled { font-family: 'Rock Salt', cursive; font-weight: 400; }
 h1, .jumbotron h1 { color:#CC6633; }
 #content p { margin: 1em; line-height: 1.6em; }
