@@ -28,10 +28,7 @@ pop-img:
 url: "https://www.gbahtavern.com.au"
 cdn: "https://cdn.gbahtavern.com.au"
 
-permalink: pretty
+permalink: /:path/:basename/
 
-paginate: 5
-paginate_path: "/blog/:num/"
-
-gems:
+plugins:
   - jekyll-redirect-from
