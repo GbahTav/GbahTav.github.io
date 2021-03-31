@@ -1,5 +1,5 @@
 :root{
-	--brand-clr:#2B9EFF;
-	--brand-2-clr:#FF8C2B;
-	--brand-3-clr:#ABD8FF;
+	--brand-base-clr:#2B9EFF;
+	--brand-alt-clr:#FF8C2B;
+	--brand-muted-clr:#ABD8FF;
 }
