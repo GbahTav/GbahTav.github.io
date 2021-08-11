@@ -17,7 +17,8 @@ biz_map: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6991.
 biz_map_url: "https://www.google.com/maps/place/Goonellabah+Tavern/@-28.814135,153.336674,16z/data=!4m5!3m4!1s0x0:0x6111b597d9be366a!8m2!3d-28.8141348!4d153.3388625?hl=en-US"
 
 biz_phone: "02&nbsp;6625&nbsp;1290"
-biz_phone_bistro: "02&nbsp;6625&nbsp;1291"
+biz_phone_bistro: "02&nbsp;6625&nbsp;1290"
+biz_phone_bistro_old: "02&nbsp;6625&nbsp;1291"
 biz_email: "staff@gbahtavern.com.au"
 
 biz_abn: "48&nbsp;621&nbsp;781&nbsp;539"
